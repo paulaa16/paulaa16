@@ -44,7 +44,9 @@ Answer sent back on WhatsApp
 **Status.**
 - Working prototype: receives a message, checks availability, replies automatically. Demo below
 
-https://github.com/user-attachments/assets/2334ef49-2f13-4183-99a5-b63ed502c8f9
+
+https://github.com/user-attachments/assets/7a670cfd-0956-4e27-959e-b1f432f55548
+
 
  <!-- TODO: [Add a 30 second demo GIF or video here] -->. 
 - Phase 2 planned: automatic appointment reminders.
