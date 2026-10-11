@@ -58,6 +58,8 @@ https://github.com/user-attachments/assets/2334ef49-2f13-4183-99a5-b63ed502c8f9
 
 **Stack:** Make, WhatsApp Cloud API (Meta for Developers), webhooks, Google Sheets, LLM API.
 
+**Code:** [Make blueprint (credentials removed)](https://github.com/paulaa16/doiflow-whatsapp-agent)
+
 ---
 
 ## 2. Supply optimization workflow (in production at my current company)
