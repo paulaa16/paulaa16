@@ -42,7 +42,11 @@ Answer sent back on WhatsApp
 ```
 
 **Status.**
-- Working prototype: receives a message, checks availability, replies automatically. <!-- TODO: [Add a 30 second demo GIF or video here] -->. 
+- Working prototype: receives a message, checks availability, replies automatically. Demo below
+
+https://github.com/user-attachments/assets/2334ef49-2f13-4183-99a5-b63ed502c8f9
+
+ <!-- TODO: [Add a 30 second demo GIF or video here] -->. 
 - Phase 2 planned: automatic appointment reminders.
 - Validating demand: I cold-emailed ~50 active-tourism operators and, in a second test, 20 physiotherapy clinics in Madrid. Two operators asked for a demo meeting, but both no-showed when the time came.
     
